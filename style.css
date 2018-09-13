@@ -121,7 +121,7 @@ nav ul li a:hover{
 	text-transform: uppercase;
 	overflow:hidden;
 	white-space: nowrap;
-	-webkit-animation:;
+	-webkit-animation:
 	background-position: center center;
 	animation:type 15s steps(21) alternate;
 }*/
